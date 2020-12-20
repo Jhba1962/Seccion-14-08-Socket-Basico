@@ -1,9 +1,6 @@
-# Notas:
+### 08-Socket-Basico
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+##### Componetes
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+    - express
+    - socket.io
